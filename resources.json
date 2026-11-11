@@ -1,0 +1,114 @@
+[
+  {
+    "name": "IFCT0609_Actividades_primer_dia.pdf",
+    "url": "materiales/IFCT0609_Actividades_primer_dia.pdf"
+  },
+  {
+    "name": "Guia_funciones_C_main_parametros_UF1286.pdf",
+    "url": "materiales/Guia_funciones_C_main_parametros_UF1286.pdf"
+  },
+  {
+    "name": "IFCT0609_Infografias_primer_dia.pdf",
+    "url": "materiales/IFCT0609_Infografias_primer_dia.pdf"
+  },
+  {
+    "name": "IFCT0609_Operadores_pseudocodigo_alumnado.pdf",
+    "url": "materiales/IFCT0609_Operadores_pseudocodigo_alumnado.pdf"
+  },
+  {
+    "name": "Ejercicios_pseudocodigo_a_C_alumnado_UF1286.pdf",
+    "url": "materiales/Ejercicios_pseudocodigo_a_C_alumnado_UF1286.pdf"
+  },
+  {
+    "name": "Contador_archivos_C_pseudocodigo_UF1286.pdf",
+    "url": "materiales/Contador_archivos_C_pseudocodigo_UF1286.pdf"
+  },
+  {
+    "name": "Guia_herramientas_C_Python_VSCode_IFCT0609.pdf",
+    "url": "materiales/Guia_herramientas_C_Python_VSCode_IFCT0609.pdf"
+  },
+  {
+    "name": "Manual_programacion_sistemas_UF1286.pdf",
+    "url": "materiales/Manual_programacion_sistemas_UF1286.pdf"
+  },
+  {
+    "name": "Manual_programacion_sistemas_UF1286_C.docx",
+    "url": "materiales/Manual_programacion_sistemas_UF1286_C.docx"
+  },
+  {
+    "name": "Ejemplos_C_UF1286.zip",
+    "url": "materiales/Ejemplos_C_UF1286.zip"
+  },
+  {
+    "name": "Vídeo · Funciones y Hola mundo",
+    "url": "https://www.makigas.es/series/tutorial-de-c/funciones-y-hola-mundo",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Makigas",
+    "duration": "17:12",
+    "description": "Estructura del programa, funciones y main."
+  },
+  {
+    "name": "Vídeo · Variables y tipos de datos",
+    "url": "https://www.makigas.es/series/tutorial-de-c/variables-y-tipos-de-datos",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Makigas",
+    "duration": "17:04",
+    "description": "Declaraciones, asignaciones y presentación de valores."
+  },
+  {
+    "name": "Vídeo · Condicionales y operadores lógicos",
+    "url": "https://www.makigas.es/series/tutorial-de-c/condicionales-y-operadores-logicos",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Makigas",
+    "duration": "16:19",
+    "description": "Decisiones y condiciones compuestas."
+  },
+  {
+    "name": "Vídeo · Bucles: while, do-while y for",
+    "url": "https://www.makigas.es/series/tutorial-de-c/bucles",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Makigas",
+    "duration": "10:33",
+    "description": "Visión conjunta de las estructuras repetitivas."
+  },
+  {
+    "name": "Vídeo · Entrada de datos con scanf, parte 1",
+    "url": "https://www.makigas.es/series/tutorial-de-c/scanf-parte-1",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Makigas",
+    "duration": "16:36",
+    "description": "Lectura de datos para los ejercicios."
+  },
+  {
+    "name": "Vídeo · Implementación de bucles en C con while",
+    "url": "https://www.upv.es/visor/media/64f9fe00-1e79-11e6-9e98-d90fe8da13de/v",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Universitat Politècnica de València",
+    "duration": "9:35",
+    "description": "Repetir mientras se cumpla una condición."
+  },
+  {
+    "name": "Vídeo · Implementación de bucles en C con do-while",
+    "url": "https://www.upv.es/visor/media/7121dea0-1e79-11e6-9e98-d90fe8da13de/v",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Universitat Politècnica de València",
+    "duration": "",
+    "description": "Ejecutar al menos una vez y comprobar después."
+  },
+  {
+    "name": "Vídeo · Implementación de bucles en C con for",
+    "url": "https://www.upv.es/visor/media/7d3e9bb0-1e79-11e6-9e98-d90fe8da13de/v",
+    "type": "video",
+    "unit": "UF1286",
+    "author": "Universitat Politècnica de València",
+    "duration": "9:30",
+    "description": "Recorridos con inicio, condición y actualización."
+  }
+]

@@ -1,0 +1,16 @@
+ACTUALIZACION PREPARADA - VIDEOS DE C PARA UF1286
+
+No publicada: la conexion actual no tiene acceso al repositorio.
+Basada en Actualizar_materiales_aula_UF1286.zip, guardado el 10/11/2026.
+
+Contiene resources.json y app.js con ocho videos enlazados.
+Conserva los diez recursos del catalogo recuperado.
+Se accede desde Modulos > MF0964_3 > UF1286 > Videos de programacion en C,
+o desde Materiales del aula > Videos de C.
+Los enlaces abren las paginas originales de los autores en otra pestana.
+No se descargan ni copian los videos.
+
+Antes de subir: comparar con los archivos actuales del repositorio.
+No sustituirlos a ciegas si se han incorporado cambios posteriores.
+Una vez comprobados, subir app.js y resources.json a la raiz del aula.
+No hay que reemplazar index.html, los estilos ni los materiales.
