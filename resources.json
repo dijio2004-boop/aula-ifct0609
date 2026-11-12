@@ -110,5 +110,15 @@
     "author": "Universitat Politècnica de València",
     "duration": "9:30",
     "description": "Recorridos con inicio, condición y actualización."
+  },
+  {
+    "name": "Punteros_C_ejercicios_alumnado_UF1286.pdf",
+    "url": "materiales/Punteros_C_ejercicios_alumnado_UF1286.pdf",
+    "unit": "UF1286"
+  },
+  {
+    "name": "Arrays_cadenas_estructuras_C_alumnado_explicaciones_UF1286.pdf",
+    "url": "materiales/Arrays_cadenas_estructuras_C_alumnado_explicaciones_UF1286.pdf",
+    "unit": "UF1286"
   }
 ]
