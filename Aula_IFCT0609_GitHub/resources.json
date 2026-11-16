@@ -1,5 +1,29 @@
 [
   {
+    "name": "Arrays_15_ejercicios_alumnado_UF1286.pdf",
+    "url": "materiales/Arrays_15_ejercicios_alumnado_UF1286.pdf",
+    "unit": "UF1286",
+    "description": "15 ejercicios de arrays, cadenas y estructuras. Material del alumnado sin soluciones."
+  },
+  {
+    "name": "Infografias_arrays_cadenas_estructuras_C_UF1286.pdf",
+    "url": "materiales/Infografias_arrays_cadenas_estructuras_C_UF1286.pdf",
+    "unit": "UF1286",
+    "description": "Tres láminas explicativas de arrays, cadenas y estructuras."
+  },
+  {
+    "name": "Infografias_punteros_C_UF1286.pdf",
+    "url": "materiales/Infografias_punteros_C_UF1286.pdf",
+    "unit": "UF1286",
+    "description": "Cinco láminas explicativas de punteros."
+  },
+  {
+    "name": "Test_repaso_UF1286_alumnado_30_preguntas.pdf",
+    "url": "materiales/Test_repaso_UF1286_alumnado_30_preguntas.pdf",
+    "unit": "UF1286",
+    "description": "30 preguntas con cuatro opciones y una sola correcta. Sin soluciones."
+  },
+  {
     "name": "IFCT0609_Actividades_primer_dia.pdf",
     "url": "materiales/IFCT0609_Actividades_primer_dia.pdf"
   },
