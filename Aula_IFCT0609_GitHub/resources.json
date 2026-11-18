@@ -1,5 +1,23 @@
 [
     {
+      "name": "Inventario_equipos_componentes_C_UF1286.pdf",
+      "url": "materiales/Inventario_equipos_componentes_C_UF1286.pdf",
+      "unit": "UF1286",
+      "description": "Práctica de inventario de equipos y componentes en C para el alumnado."
+    },
+    {
+      "name": "Manual_complementario_UF1286.pdf",
+      "url": "materiales/Manual_complementario_UF1286.pdf",
+      "unit": "UF1286",
+      "description": "Manual complementario de la UF1286 para preparar el test de repaso."
+    },
+    {
+      "name": "Infografia_Compilar_y_ejecutar_en_C_con_GCC.png",
+      "url": "materiales/Infografia_Compilar_y_ejecutar_en_C_con_GCC.png",
+      "unit": "UF1286",
+      "description": "Infografía sobre cómo compilar y ejecutar un programa en C con GCC."
+    },
+    {
       "name": "Repaso_sintaxis_funciones_C_UF1286.pdf",
       "url": "materiales/Repaso_sintaxis_funciones_C_UF1286.pdf",
       "unit": "UF1286",
