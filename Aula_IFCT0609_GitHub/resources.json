@@ -1,4 +1,16 @@
 [
+    {
+      "name": "Repaso_sintaxis_funciones_C_UF1286.pdf",
+      "url": "materiales/Repaso_sintaxis_funciones_C_UF1286.pdf",
+      "unit": "UF1286",
+      "description": "Guía actualizada de sintaxis y funciones de C, con fgets y recorrido de directorios."
+    },
+    {
+      "name": "Test_manual_complementario_UF1286.pdf",
+      "url": "materiales/Test_manual_complementario_UF1286.pdf",
+      "unit": "UF1286",
+      "description": "30 preguntas sobre el manual complementario de la UF1286. Material del alumnado sin soluciones."
+    },
   {
     "name": "Arrays_15_ejercicios_alumnado_UF1286.pdf",
     "url": "materiales/Arrays_15_ejercicios_alumnado_UF1286.pdf",
